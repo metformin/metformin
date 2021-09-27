@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Darek!</h1>
 <h3 align="center">A passionate Swift/iOS developer from Poland.</h3>
 
-- 🔭 I’m currently working on [TrafiGO Szczecin](https://github.com/metformin/TrafiGO-Szcz)
+- 🔭 I’m currently working on: [TrafiGO Szczecin](https://github.com/metformin/TrafiGO-Szcz)
 
-- 🌱 I’m currently learning **Swift, Combine Framework, Unit tests**
+- 🌱 I’m currently learning: **Swift, Combine Framework, Unit tests**
 
 - 🤝 I am at the beginning of **my career as a iOS developer**
 
-- 💬 Technologies I am beginning to learn **Flutter, Dart**
+- 💬 Technologies I am beginning to learn: **Flutter, Dart**
 
-- 📫 How to reach me **daro.tomaszewski@gmail.com**
+- 📫 How to reach me: **daro.tomaszewski@gmail.com**
 
-- ⚡ Fun fact **A normal person's internal temperature is 36.6°C. Mine is 36.0°C. I'm not a english native speaker, so when I said I was colder than others, people thought I was being immodest.**
+- ⚡ Fun fact: **A normal person's internal temperature is 36.6°C. Mine is 36.0°C. I'm not a english native speaker, so when I said I was colder than others, people thought I was being immodest.**
 
 
 <h3 align="left">Languages and Tools:</h3>
