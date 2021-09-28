@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **daro.tomaszewski@gmail.com**
 
-- ⚡ Fun fact: **A normal person's internal temperature is 36.6°C. Mine is 36.0°C.**
+- ⚡ Fun fact: **A normal person's internal temperature is 36.6°C. Mine is 36.0°C. But I'm not a cold person :)**
 
 
 <h3 align="left">Languages and Tools:</h3>
