@@ -7,7 +7,7 @@
 
 - 🤝 I am at the beginning of **my career as a iOS developer**
 
-- 💬 Technologies I am beginning to learn: **Flutter, Dart**
+- 💬 Technologies I am beginning to learn: **SwiftUI**
 
 - 📫 How to reach me: **daro.tomaszewski@gmail.com**
 
