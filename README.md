@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently working on: [TrafiGO Szczecin](https://github.com/metformin/TrafiGO-Szcz)
 
-- 🌱 I’m currently learning: **Swift, Combine Framework, Unit tests**
+- 🌱 I’m currently learning: **Swift, Reactive programming**
 
-- 🤝 I am at the beginning of **my career as a iOS developer**
-
-- 💬 Technologies I am beginning to learn: **SwiftUI**
+- 💬 Technologies I am beginning to learn: **gRPC**
 
 - 📫 How to reach me: **daro.tomaszewski@gmail.com**
 
