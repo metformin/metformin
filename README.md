@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Darek!</h1>
 <h3 align="center">A passionate Swift/iOS developer from Poland.</h3>
 
-- 🔭 I’m currently working on: [TrafiGO Szczecin](https://github.com/metformin/TrafiGO-Szcz)
-
 - 🌱 I’m currently learning: **Swift, Reactive programming**
 
 - 💬 Technologies I am beginning to learn: **gRPC**
