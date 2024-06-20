@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Darek!</h1>
 <h3 align="center">A passionate Swift/iOS developer from Poland.</h3>
 
-- 🌱 I’m currently learning: **Swift, Reactive programming**
+- 🌱 I’m currently learning: **TCA**
 
 - 💬 Technologies I am beginning to learn: **gRPC**
 
